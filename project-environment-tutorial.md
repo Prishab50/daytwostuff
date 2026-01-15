@@ -21,4 +21,4 @@
 * View the dataset using data wrangler by clicking on jupyter and the variable button
 
 ### 4) Update the Repository
-* Add and push all changes made to the repository
+* Add, commit, and push all changes made to the repository
